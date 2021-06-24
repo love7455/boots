@@ -1,0 +1,154 @@
+
+
+
+
+#title{
+  background-color: black;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+.navbar-brand{
+  color: #81B214;
+  font-size: 2rem;
+  font-family: cursive;
+
+  font-weight: bold;
+
+
+}
+
+.nav-item{
+  font-size: 1.2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #81B214;
+}
+
+.intro h2{
+  padding-top: 4rem;
+  color: white;
+  font-family:Lorem ipsum dolor sit amet;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color:#81B214;
+}
+
+.intro{
+  color: white;
+  font-family:Lorem ipsum dolor sit amet;
+  font-size: 3rem;
+  font-weight: bolder;
+  color:#81B214;
+}
+
+.android-div{
+  text-align: center;
+}
+ img{
+  padding-top: 4rem;
+  width: 60%;
+}
+
+.btn{
+  margin-top: 20px;
+  background-color: #81B214;
+  color: black
+}
+
+.brand-image{
+  padding-top: 0px;
+  width: 80px;
+  border-radius: 20%;
+}
+
+#mySkills{
+  padding: 3% 5% 12%;
+}
+
+
+#about-me{
+  padding-top: 2.5%;
+  padding-left: 10%;
+  padding-right: 10%;
+
+
+}
+
+#about-me p{
+
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+  line-height: inherit;
+  font-weight: 400;
+}
+.about{
+  padding-left: 100px;
+
+}
+
+.smile-image{
+  padding-top: 0px;
+
+   width: 60px;
+   float: left;
+
+}
+
+#my-skills{
+    padding:3% 5% .5%;
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#my-skills h2{
+  color: #81B214;
+  padding-bottom: 2rem;
+
+}
+
+.outer-span{
+  background-color: gray;
+  font-weight: 900;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 1.2rem;
+  color: black;
+
+}
+
+.inner-span{
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: black;
+
+}
+
+
+
+.contact-details{
+  text-align: center;
+  padding: 5% 15% 5%;
+
+}
+
+.contact-section{
+  padding: 8% 12% 8%;
+  text-align: center;
+
+}
+
+.contact-logo{
+  margin-left: 15px;
+  margin-right: 15px;
+
+}
+
+
+#contacts p{
+  text-align: center;
+  font-weight: bold;
+  color: grey;
+}
